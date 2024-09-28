@@ -9,7 +9,6 @@ environment into the existing product, opening a new user segment, and resulting
 Additionally, Implemented serialization processes, undo/redo functionality for event-driven architecture, ensuring efficient tracking and management of user actions to improve user experience and software functionality. Implemented a Driver module and refactored the codebase to develop an interface for accessing order details.
 Implemented features for tracking and managing orders, including Google Maps functionality. Also, implemented
 generic components within the branch module, adaptable for both delivery and booking purposes.
-                • Tools and Technologies: React.js, Redux, Electron.js, TypeScript, Node.js, MongoDB, Firebase, JavaScript, Git, GitHub, GA4.
 
 ### Tech Stack that I am familiar with
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
